@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1600096325 source:c:\users\care\desktop\code bloc\projet 2\untitled1.c
+
+1600096779 source:c:\users\care\desktop\code bloc\projet 2\main.c
+	<stdio.h>
+	<stdlib.h>
+
